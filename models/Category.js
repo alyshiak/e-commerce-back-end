@@ -17,7 +17,7 @@ Category.init(
       type: DataTypes.STRING,
       NotNull: true
     }
-  }
+  },
   {
     sequelize,
     timestamps: false,
